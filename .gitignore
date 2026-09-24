@@ -1,0 +1,5 @@
+# GENLATE DEV STUFF STORAGE
+.genslate/*
+
+# GENSLATE SENSISTIVE DATAS
+.claude/mcp.json

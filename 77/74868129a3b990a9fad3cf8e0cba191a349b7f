@@ -1,0 +1,14 @@
+.claude/.claudeignore
+  h_90ad036e211778 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7774868129a3b990a9fad3cf8e0cba191a349b7f",
+  "prompts": {},
+  "humans": {
+    "h_90ad036e211778": {
+      "author": "ATOMANGELETTI <DUSTIN@ANGELETTI.SPACE>"
+    }
+  }
+}

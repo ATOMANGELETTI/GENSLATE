@@ -1,0 +1,20 @@
+.config/moon/cache/CACHEDIR.TAG
+  h_90ad036e211778 1-3
+.config/moon/cache/hashes/1be828907977da92f78070248f931640d7f8eac5584e53c2b8162dbdeccb7400.json
+  h_90ad036e211778 1
+.config/moon/cache/states/workspaceGraph.json
+  h_90ad036e211778 1
+.config/moon/cache/states/workspaceGraphStateV1.json
+  h_90ad036e211778 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5fcfbccd6d16b58bca1dfe39cec0aab338a46de9",
+  "prompts": {},
+  "humans": {
+    "h_90ad036e211778": {
+      "author": "ATOMANGELETTI <DUSTIN@ANGELETTI.SPACE>"
+    }
+  }
+}

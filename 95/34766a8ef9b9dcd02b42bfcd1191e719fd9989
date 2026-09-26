@@ -1,0 +1,14 @@
+.agents/rules/instructions.md
+  h_90ad036e211778 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9534766a8ef9b9dcd02b42bfcd1191e719fd9989",
+  "prompts": {},
+  "humans": {
+    "h_90ad036e211778": {
+      "author": "ATOMANGELETTI <DUSTIN@ANGELETTI.SPACE>"
+    }
+  }
+}

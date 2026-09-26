@@ -1,0 +1,22 @@
+.agents/rules/instructions.md
+  h_90ad036e211778 1,3-6,8-36
+.agents/skills/ui-fixes/SKILL.md
+  h_90ad036e211778 1-65
+.agents/skills/run-tests/SKILL.md
+  h_90ad036e211778 1-72
+.agents/hooks.json
+  h_90ad036e211778 1-30
+.config/cspell/project-words.txt
+  h_90ad036e211778 119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bcd91bd1fcdafed4c51dcc2ac1eb4270fbbcb284",
+  "prompts": {},
+  "humans": {
+    "h_90ad036e211778": {
+      "author": "ATOMANGELETTI <DUSTIN@ANGELETTI.SPACE>"
+    }
+  }
+}
